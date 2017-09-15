@@ -30,6 +30,24 @@ p {
 
 .header {
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
-  opacity: 0.5;
   color: White;
+}
+
+.divider {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  color: White;
+}
+
+.footer {
+  background-color: DimGray;
+  text-align: left;
+  color: White;
+}
+
+#copyright {
+  font-size: 11px;
+}
+
+#nav {
+  font-size: 19px;
 }
